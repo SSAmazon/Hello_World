@@ -1,10 +1,4 @@
 Hi this is file 3
 This is updated
 It is updated to check merge conflict.
-<<<<<<< HEAD
 
-=======
-Hi this is file 3
-This is updated
-It is updated to check merge conflict.
->>>>>>> second_branch
